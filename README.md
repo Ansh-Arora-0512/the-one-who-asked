@@ -1,7 +1,7 @@
-- Hi, I’m @the-one-who-asked
-- I’m interested in back-end development, AI and just building simple games
-- I’m currently learning (mostly )Python and (starting out on) C++
-- I'm a student, and program very casually (mostly during class, and that being every class except computer science)
+- Hi, I’m @Ansh-Arora-0512
+- I’m interested in many areas of computer science including deep learning, robotics and web development but have not decided on a particular area yet
+- I've worked with Python, C++, Javascript and React in the past, all of which I intend to continue working and building my skills with
+- I'm a high school student, currently in the process of university admissions
 
 <!---
 the-one-who-asked/the-one-who-asked is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
